@@ -13,9 +13,7 @@ I am selftaught enthusiastic Full Stack Developer 🌐, App Developer 📱 anda 
 * 🧠  I'm learning Advanced ReactJS
 
 <a href="http://github.com/nitish12031" target="_blank" rel="noreferrer">
-</a><a href="https://www.twitter.com/AdarshG99538272" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AdarshG99538272?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+</a>
 
 ### Skills
 
@@ -48,7 +46,6 @@ src="https://img.shields.io/twitter/follow/AdarshG99538272?logo=twitter&style=fo
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/adarsh_07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/adarshmi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://adarshgautam.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/adarshm_07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adarsh-gautam-bb0441130" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@adarsh_07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AdarshG99538272" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
