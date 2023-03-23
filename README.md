@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adarsh Gautam
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nitish Kumar
 =====================================================================================================================================
 
 Full Stack Web Developer
@@ -7,9 +7,9 @@ Full Stack Web Developer
 I am selftaught enthusiastic Full Stack Developer 🌐, App Developer 📱 anda a beginner level Designer 🎨. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. Besides coding, I am always playing games with my friends 😁.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Adarsh Gautam](http://github.com/adarshmi?tab=followers)
-* ✉️  You can contact me at [adarshmi1234@gmail.com](mailto:adarshmi1234@gmail.com)
-* 🚀  I'm currently working on [FoodDeliveryApp](http://github.com/adarshmi/FoodDeliveryApp/tree/master/restaurantapp)
+* 🖥️  See my portfolio at [Nitish Kumar](http://github.com/nitish12031)
+* ✉️  You can contact me at [kumarnitish12031@gmail.com](mailto:kumarnitish12031@gmail.com)
+* 🚀  I'm currently working on [HeartStream](http://github.com/)
 * 🧠  I'm learning Advanced ReactJS
 
 <a href="https://www.github.com/adarshmi" target="_blank" rel="noreferrer"><img
