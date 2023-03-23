@@ -9,11 +9,11 @@ I am selftaught enthusiastic Full Stack Developer 🌐, App Developer 📱 anda 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Nitish Kumar](http://github.com/nitish12031)
 * ✉️  You can contact me at [kumarnitish12031@gmail.com](mailto:kumarnitish12031@gmail.com)
-* 🚀  I'm currently working on [HeartStream](http://github.com/)
+* 🚀  I'm currently working on [HeartStream](https://github.com/adarshmi/heart_stream)
 * 🧠  I'm learning Advanced ReactJS
 
-<a href="https://www.github.com/adarshmi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/adarshmi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/AdarshG99538272" target="_blank" rel="noreferrer"><img
+<a href="http://github.com/nitish12031" target="_blank" rel="noreferrer">
+</a><a href="https://www.twitter.com/AdarshG99538272" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AdarshG99538272?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
